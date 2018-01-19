@@ -1,0 +1,17 @@
+{
+  "name": "TestXtermjs",
+  "description": "",
+  "version": "3.0.0",
+  "main": "lib/Terminal.js",
+  "types": "typings/xterm.d.ts",
+  "license": "MIT",
+  "devDependencies": {
+    "express": "4.13.4",
+    "express-ws": "2.0.0-rc.1",
+    "node-pty": "^0.7.2"
+  },
+  "scripts": {
+    "start": "node demo/app"
+  },
+  "dependencies": {}
+}
