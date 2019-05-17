@@ -6,7 +6,7 @@
   "types": "typings/xterm.d.ts",
   "license": "MIT",
   "devDependencies": {
-    "express": "4.13.4",
+    "express": "4.17.0",
     "express-ws": "2.0.0-rc.1",
     "node-pty": "^0.7.2"
   },
