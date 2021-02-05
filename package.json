@@ -8,7 +8,7 @@
   "devDependencies": {
     "express": "4.13.4",
     "express-ws": "2.0.0-rc.1",
-    "node-pty": "^0.7.2"
+    "node-pty": "^0.10.0"
   },
   "scripts": {
     "start": "node demo/app"
